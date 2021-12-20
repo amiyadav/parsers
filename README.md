@@ -1,2 +1,2 @@
 # parsers
-Basic parser from simple simple numeral to OOP structures
+Basic recursive descent parser from parsing simple numeral to OOP structures
